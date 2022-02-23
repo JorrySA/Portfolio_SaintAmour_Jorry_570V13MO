@@ -1,13 +1,16 @@
 # Fiche technique
 
 ### Titre de l'oeuvre ou de la réalisation:
-aS
+Assemblée enchevêt
 
-### Nom de l'artiste ou de la firme
+### Nom de l'artiste ou de la :
+Rafael Lozano-Hemmer
 
-### Année de réalisation
+### Année de réalisation:
+En 2017
 
-### Nom de l'exposition ou de l'événement
+### Nom de l'exposition ou de l'événement:
+5e BIENNALE INTERNATIONALE D'ART NUMÉRIQUE (BIAN)
 
 ### Lieu de mise en exposition
 
