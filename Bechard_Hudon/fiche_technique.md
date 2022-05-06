@@ -4,14 +4,14 @@
 # Nom de l'artiste ou de la firme
 ## Aseman Sabet
 # Année de réalisation
-
-### Nom de l'exposition ou de l'événement
-
-### Lieu de mise en exposition
-
-### Date de votre visite
-
-### Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
+## 2021
+# Nom de l'exposition ou de l'événement
+## Configurations du sensible
+# Lieu de mise en exposition
+## Maison des arts de Laval,Québec,Canada,Salle Alfred Pellan
+# Date de votre visite
+## 16 mars 2022
+# Description de l'oeuvre ou du dispositif multimédia 
 
 ### Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
