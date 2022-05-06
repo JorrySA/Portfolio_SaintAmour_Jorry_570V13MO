@@ -19,7 +19,8 @@
 ## Une photo de l'oeuvre
 ![ImagePrincipale](photographies/oeuvre_le_fleuve.PNG)
 # Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
-
+## Installations du projecteur pour pouvoir diffuser le projet Le fleuve sur le mur blanc.
+![ImagePrincipale](photographies/projecteur_le_fleuve.PNG)
 ### Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
 ### Expérience vécue :
