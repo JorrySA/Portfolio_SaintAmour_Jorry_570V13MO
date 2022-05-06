@@ -13,9 +13,12 @@
 ## 16 mars 2022
 # Description de l'oeuvre ou du dispositif multimédia 
 ![ImagePrincipale](photographies/cartel_le_fleuve.PNG)
-### Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
-
-### Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+## Cette photo de ce cartel a été prise lors de ma visite de l'exposition Béchard Hudon dans la Salle Alfred Pellan de la Maison des arts de Laval. 
+# Explications sur la mise en espace de l'oeuvre ou du dispositif
+## Le fleuve est une oeuvre immersive visuelle qui est exposée sur un mur blanc à l'aide d'un projecteur. Quand nous l'observons les spectateurs peuvent se laisser emporter par elle. Cette oeuvre laisse les spectateurs qui y assitent à s'imaginer ce que sa pourrait bien representé.Par exemple, pour ma part à certains endroits je voyais comme si c'etait des courant d'électricité qui se joignaient tabdis que réellement lorsque les spectateurs panchent leur tête nous pouvons voir que ce sont tout simplement des vagues d'océan.
+## Une photo de l'oeuvre
+![ImagePrincipale](photographies/)
+# Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
 ### Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
