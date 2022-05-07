@@ -1,4 +1,6 @@
 # Le partage numérique des collections muséales autochtones: projet Umitemieu
 # Lieu de mise en expostion
 ## Collège Montmorency, Salle Claude-Legault
-##
+### Le projet Umitemieu est un projet d'éducation muséale qui est destiné aux Autochtones du Québec plus précisément pour les jeunes des communautés autochtones. Le but ce projet est que ces jeunes des communautés autochtones participantes créent leur propre musée, une sorte de collection culturelle virtuelle. Ils sont amenés à faire une séance de photogrammétrie d’un objet physique où, à l’aide de l’intelligence artificielle, une copie virtuelle de l’objet est créée. Par la suite, cet objet est importé dans un logiciel de réalité augmentée pour produire un hologramme culturel. On obtient ainsi un musée virtuel nomade, fait par les membres de la communauté, pour les membres de la communauté, qui inclut jeunes et aînés.
+
+ 
