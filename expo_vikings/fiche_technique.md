@@ -28,8 +28,8 @@
 # Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...):
 ## Projecteurs
 ![ImagePrincipale](medias/projecteur.PNG)
-## Lumieres
-![ImagePrincipale](lumière.PNG)
+## Lumières
+![ImagePrincipale](lumière_design.PNG)
 
 # Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...):
 ## Câbles electr, support mural téléviseur.
