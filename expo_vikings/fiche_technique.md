@@ -29,7 +29,7 @@
 ## Projecteurs
 ![ImagePrincipale](medias/projecteur.PNG)
 ## Lumières
-![ImagePrincipale](lumière_design.PNG)
+![ImagePrincipale](Lumière_design.PNG)
 
 # Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...):
 ## Câbles electr, support mural téléviseur.
