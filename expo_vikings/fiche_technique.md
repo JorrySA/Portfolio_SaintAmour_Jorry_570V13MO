@@ -24,8 +24,9 @@
   ## Lors de ma visite, de nombreux oeuvres sur le même thème sont disposés aux visiteurs et  comme vous ne le saviez sans doute pas cette visite s'est déroulé en 2 parties. Durant la 1er partie nous avons pu assister aux origines des vikings et au récit de leur vie au quotidien.Puis lors de la 2e partie, nous avons pu assiter au recit de leurs voyages et au récit de la fin des temps.
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...):
-## Projecteur
+## Projecteurs
 ![ImagePrincipale](medias/projecteur.PNG)
+## Lumieres
 
 # Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...):
 ## Câbles electr, support mural téléviseur.
