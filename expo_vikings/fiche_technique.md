@@ -37,6 +37,7 @@
 ### auprès des oeuvres ayant du sons
 ## Jeux questionnaire
 ![ImagePrincipale](medias/Jeux_Questionnaire.PNG)
+### À la fin de la première partie il y a un jeux questionnaire
 
 # Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...):
 ## Câbles electriques, support mural téléviseur.
