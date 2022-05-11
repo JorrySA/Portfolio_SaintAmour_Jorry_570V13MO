@@ -30,7 +30,7 @@
 ![ImagePrincipale](medias/projecteur.PNG)
 ## Lumières+design
 ![ImagePrincipale](medias/Lumière_design.PNG)
-![ImagePrincipale](medias/design_sol2.PNG)
+![ImagePrincipale](medias/design_sol2.PNG)![ImagePrincipale](medias/design_sol.PNG)
 ## beaucoup de lumieres et de design de ce type dans les salles
 
 # Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...):
