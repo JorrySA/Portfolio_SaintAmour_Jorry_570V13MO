@@ -2,11 +2,11 @@
 # Titre de l'oeuvre ou de la réalisation
 ## Le fleuve
 # Nom de l'artiste ou de la firme
-## Aseman Sabet
+## le duo Béchard Hudon (Catherine Béchard et Sabin Hudon)
 # Année de réalisation
 ## 2021
 # Nom de l'exposition ou de l'événement
-## Configurations du sensible
+## Configurations du sensible - Béchard Hudon
 # Lieu de mise en exposition
 ## Maison des arts de Laval,Québec,Canada,Salle Alfred Pellan
 # Date de votre visite
