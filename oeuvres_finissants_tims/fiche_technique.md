@@ -1,5 +1,5 @@
 # Les projets ordonnés selon mes préférences actuelles
- ### 1.L'horloge de l'apocalypse
+ ### 1.L'horloge de l'apocalypse (mon préférer)
 Après avoir pu expérimenter les projets des 3e année, ce projet est celui que j'ai le plus apprécié,parce que durant notre visite avec les créateurs.trices ils nous ont fait assiter à leur projet et celle-ci contenait nombreux différents animations qui changeaient d'environnement et d'atmosphère suivi des sons qui comment dire fonctionnaient très bien en fonction de chaque changement d'animation etc.
  ### 2.Jeu temporel
 Ce projet fait parti de mes coups de coeur,car l'idée est vraiment simple,mais doit sans doute prendre un temps fou à réaliser.Il me fait énormément penser aux jeux questions télévisé avec l'ecran devant l'interacteur pour pouvoir répondres aux questins.Ce type de concept peut cultiver beaucoup d'entre nous.Hâte de voir le résultat final.
