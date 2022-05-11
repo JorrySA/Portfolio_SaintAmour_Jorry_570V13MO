@@ -33,7 +33,7 @@
 ![ImagePrincipale](medias/design_sol2.PNG)![ImagePrincipale](medias/design_sol.PNG)
 ### beaucoup de lumieres et de designs de ce type dans les salles
 ## Haut-parleurs
-![ImagePrincipale](medias/speaker.PNG)
+![ImagePrincipale](medias/Speaker.PNG)
 
 # Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...):
 ## Câbles electr, support mural téléviseur.
