@@ -32,7 +32,7 @@ En
 ## Je ne m'y attenais pas  du tout, à assister en présence d'autant expositions centré sur le même thème Vikings. Il en fait aucun doute que quiconque s'y croyait à leur éepoque la façon dont que les spectateurs etait immersifs.
 
 # Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc:
-## Du fait qu'il y avait de nombreux oeuvres mais concentré sur le même sujet (Vikings) la seule manière qu'on pouvait interrargir avec une oeuvre ce n'était que de se poser près d'un écran et un monsieur soit disant Viking nous racontait un récit du fonctionnement des Vikings par exemple la vie ou les voyages.
+## Du fait qu'il y avait de nombreux oeuvres mais concentré sur le même sujet (Vikings) la seule manière qu'on pouvait interrargir avec une oeuvre ce n'était que de se poser près d'un écran et un monsieur qui prend la personnalité et qui est déguisé tel un  Viking nous racontait un récit du fonctionnement des Vikings par exemple leur mode de vie et ou les grandes voyages qu'ils entreprenaient.
 
 # Ce qui vous a plu, vous a donné des idées et justifications:
 ## Ce qui m'a plu c'est le fait d'avoir  autant d'expositions sur le même sujet afin que que les spectateurs soient complètement immersifs lors de la visite.
@@ -41,3 +41,4 @@ En
 
 # Références:
 https://pacmusee.qc.ca/fr/expositions/detail/vikings-dragons-des-mers-du-nord/
+## Mes connaissances
