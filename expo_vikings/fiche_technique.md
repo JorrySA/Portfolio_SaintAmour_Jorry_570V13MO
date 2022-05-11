@@ -35,6 +35,8 @@
 ## Haut-parleurs
 ![ImagePrincipale](medias/Speaker.PNG)
 ### auprès des oeuvres ayant du sons
+## Jeux questionnaire
+![ImagePrincipale](medias/Jeux_Questionnaire.PNG)
 
 # Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...):
 ## Câbles electriques, support mural téléviseur.
