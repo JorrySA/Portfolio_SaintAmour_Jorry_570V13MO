@@ -5,13 +5,13 @@
 ## Musée national de Danemark et MuseumsPartner en collaboration avec Ubisoft 
 
 # Année de réalisation:
-En 
+## Aucune date n'a été mensionner
 
 # Nom de l'exposition ou de l'événement:
 ## Vikings-Dragons des mers du Nord
 
 # Lieu de mise en exposition:
-## À Montréal (Québec,Canada) dans une  petite salle
+## À Montréal (Québec,Canada) Dans 2 grandes salles
 
 # Date de votre visite:
 ## 30 Avril 2022
