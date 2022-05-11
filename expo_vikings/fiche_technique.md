@@ -18,12 +18,14 @@
 
 # Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source):
 ## Pour la première fois au Québec, et en exclusivité, le Musée accueille l’exceptionnelle collection viking du Musée national du Danemark, une des plus belles au monde !Bijoux et parures d’une grande finesse, armes, outils et objets du quotidien… Découvrez 650 pièces authentiques de l’Âge des Vikings, dont certaines n’ont encore jamais été présentées en Amérique du Nord. Adoptant une approche originale où mythologie et réalité s’entrecroisent, VIKINGS – Dragons des mers du Nord vous invite à une captivante immersion dans le monde à la fois réel et imaginaire de ce peuple légendaire. Le tout, dans une scénographie à couper le souffle, ponctuée d'images du jeu Assassin’s Creed Valhalla d’Ubisoft Montréal.
+### Ce texte est insipré du site de l'exposition voir référence ci-dessous
 
 # Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer):
-  ## Lors de ma visite, de nombreux oeuvres sur le même thème sont disposé aux visiteurs et  comme vous ne le saviez sans doute pas cette visite c'est déroulé en 2 partie. Durant la 1er partie nous avons pu assister aux origines des vikings et au récit de leur vie au quotidien.Puis lors de la 2e partie, nous avons pu assiter au recit de leurs voyages et au récit de la fin des temps.
+  ## Lors de ma visite, de nombreux oeuvres sur le même thème sont disposés aux visiteurs et  comme vous ne le saviez sans doute pas cette visite s'est déroulé en 2 parties. Durant la 1er partie nous avons pu assister aux origines des vikings et au récit de leur vie au quotidien.Puis lors de la 2e partie, nous avons pu assiter au recit de leurs voyages et au récit de la fin des temps.
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...):
-## Projecteur, ordinateur , lumière, .(Source: Moi lors ma visite)
+## Projecteur
+
 
 # Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...):
 ## Câbles electr, support mural téléviseur.
