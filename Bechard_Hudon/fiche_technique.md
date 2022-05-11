@@ -32,7 +32,7 @@
 ## Ce qui m'a plu réellement avec cette oeuvre,c'est le fait que nous ne remarquons pas que ce sont des vagues d'un fleuve en boucle dès l'instant que nous l'obersons, ce qui laisse un mystère au visiteur.
 
 # Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-## tout était impécable rien à dire.
+## J'aurais aimé avoir eu beaucoup plus d'interraction avec cette oeuvre.
 # Références:
 ![ImagePrincipale](photographies/cartel_le_fleuve.PNG)
 ## Le cartel de l'oeuvre
