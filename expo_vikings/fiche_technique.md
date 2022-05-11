@@ -37,7 +37,7 @@
 ### auprès des oeuvres ayant du sons
 
 # Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...):
-## Câbles electr, support mural téléviseur.
+## Câbles electriques, support mural téléviseur.
 
 # Expérience vécue :
 ## Je ne m'y attenais pas  du tout, à assister en présence d'autant expositions centré sur le même thème Vikings. Il en fait aucun doute que quiconque s'y croyait à leur éepoque la façon dont que les spectateurs etait immersifs.
